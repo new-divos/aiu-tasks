@@ -26,6 +26,7 @@ dependencies:
   - pip
   - pip:
       - gdown
+      - openpyxl
       - tensorflow >= 2.0.0
       - tensorboard
       - tqdm
